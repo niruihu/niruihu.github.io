@@ -6,7 +6,7 @@
   <link href="https://niruihu.github.io/atom.xml" rel="self"/>
   
   <link href="https://niruihu.github.io/"/>
-  <updated>2023-04-08T12:19:00.447Z</updated>
+  <updated>2023-04-09T10:39:14.465Z</updated>
   <id>https://niruihu.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何用 Hexo 搭建博客</title>
+    <link href="https://niruihu.github.io/2023/04/09/%E5%A6%82%E4%BD%95%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://niruihu.github.io/2023/04/09/%E5%A6%82%E4%BD%95%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-04-09T10:13:32.000Z</published>
+    <updated>2023-04-09T10:39:14.465Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;如何用-Hexo-搭建博客&quot;&gt;&lt;a href=&quot;#如何用-Hexo-搭建博客&quot; class=&quot;headerlink&quot; title=&quot;如何用 Hexo 搭建博客&quot;&gt;&lt;/a&gt;如何用 Hexo 搭建博客&lt;/h2&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://niruihu.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://niruihu.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>小鸭子迷路的故事</title>
     <link href="https://niruihu.github.io/2023/04/08/%E5%B0%8F%E9%B8%AD%E5%AD%90%E8%BF%B7%E8%B7%AF%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>https://niruihu.github.io/2023/04/08/%E5%B0%8F%E9%B8%AD%E5%AD%90%E8%BF%B7%E8%B7%AF%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2023-04-08T12:13:23.000Z</published>
-    <updated>2023-04-08T12:19:00.447Z</updated>
+    <updated>2023-04-09T10:12:33.255Z</updated>
     
     
       
@@ -34,6 +59,8 @@
     
     
     
+    <category term="故事" scheme="https://niruihu.github.io/categories/%E6%95%85%E4%BA%8B/"/>
+    
     
     <category term="幼儿故事集" scheme="https://niruihu.github.io/tags/%E5%B9%BC%E5%84%BF%E6%95%85%E4%BA%8B%E9%9B%86/"/>
     
@@ -44,7 +71,7 @@
     <link href="https://niruihu.github.io/2023/04/08/%E5%B0%8F%E6%B0%B4%E6%AF%8D%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>https://niruihu.github.io/2023/04/08/%E5%B0%8F%E6%B0%B4%E6%AF%8D%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2023-04-08T11:13:41.000Z</published>
-    <updated>2023-04-08T11:20:10.974Z</updated>
+    <updated>2023-04-09T10:12:09.516Z</updated>
     
     
       
@@ -57,6 +84,8 @@
     
     
     
+    <category term="故事" scheme="https://niruihu.github.io/categories/%E6%95%85%E4%BA%8B/"/>
+    
     
     <category term="幼儿故事集" scheme="https://niruihu.github.io/tags/%E5%B9%BC%E5%84%BF%E6%95%85%E4%BA%8B%E9%9B%86/"/>
     
@@ -67,18 +96,20 @@
     <link href="https://niruihu.github.io/2023/04/08/%E6%B5%B7%E9%A9%AC%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>https://niruihu.github.io/2023/04/08/%E6%B5%B7%E9%A9%AC%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2023-04-08T11:02:16.000Z</published>
-    <updated>2023-04-08T11:11:35.604Z</updated>
+    <updated>2023-04-09T10:11:27.591Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;海马的故事&quot;&gt;&lt;a href=&quot;#海马的故事&quot; class=&quot;headerlink&quot; title=&quot;海马的故事&quot;&gt;&lt;/a&gt;海马的故事&lt;/h2&gt;&lt;h4 id=&quot;这篇故事主要是为了让孩子认识各种颜色&quot;&gt;&lt;a href=&quot;#这篇故事主要是为了让孩子认识各种颜色&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;海马的故事&quot;&gt;&lt;a href=&quot;#海马的故事&quot; class=&quot;headerlink&quot; title=&quot;海马的故事&quot;&gt;&lt;/a&gt;海马的故事&lt;/h2&gt;&lt;h4 id=&quot;这篇故事主要是为了让孩子认识和熟悉各种颜色&quot;&gt;&lt;a</summary>
         
       
     
     
+    
+    <category term="故事" scheme="https://niruihu.github.io/categories/%E6%95%85%E4%BA%8B/"/>
     
     
     <category term="幼儿故事集" scheme="https://niruihu.github.io/tags/%E5%B9%BC%E5%84%BF%E6%95%85%E4%BA%8B%E9%9B%86/"/>
@@ -90,7 +121,7 @@
     <link href="https://niruihu.github.io/2023/04/08/%E4%B9%8C%E9%BE%9F%E5%92%8C%E9%9D%92%E8%9B%99%E6%89%93%E6%9E%B6/"/>
     <id>https://niruihu.github.io/2023/04/08/%E4%B9%8C%E9%BE%9F%E5%92%8C%E9%9D%92%E8%9B%99%E6%89%93%E6%9E%B6/</id>
     <published>2023-04-08T10:14:42.000Z</published>
-    <updated>2023-04-08T11:00:44.915Z</updated>
+    <updated>2023-04-09T10:11:49.072Z</updated>
     
     
       
@@ -103,6 +134,8 @@
     
     
     
+    <category term="故事" scheme="https://niruihu.github.io/categories/%E6%95%85%E4%BA%8B/"/>
+    
     
     <category term="幼儿故事集" scheme="https://niruihu.github.io/tags/%E5%B9%BC%E5%84%BF%E6%95%85%E4%BA%8B%E9%9B%86/"/>
     
@@ -113,18 +146,20 @@
     <link href="https://niruihu.github.io/2023/04/08/%E5%A4%A7%E8%B1%A1%E5%92%8C%E7%8B%AE%E5%AD%90%E6%89%93%E6%9E%B6/"/>
     <id>https://niruihu.github.io/2023/04/08/%E5%A4%A7%E8%B1%A1%E5%92%8C%E7%8B%AE%E5%AD%90%E6%89%93%E6%9E%B6/</id>
     <published>2023-04-08T10:07:10.000Z</published>
-    <updated>2023-04-08T11:01:20.332Z</updated>
+    <updated>2023-04-09T10:10:42.496Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;大象和狮子打架&quot;&gt;&lt;a href=&quot;#大象和狮子打架&quot; class=&quot;headerlink&quot; title=&quot;大象和狮子打架&quot;&gt;&lt;/a&gt;大象和狮子打架&lt;/h2&gt;&lt;h4 id=&quot;这篇故事主要是教育孩子遇到问题不要回避，用于面对&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h2 id=&quot;大象和狮子打架&quot;&gt;&lt;a href=&quot;#大象和狮子打架&quot; class=&quot;headerlink&quot; title=&quot;大象和狮子打架&quot;&gt;&lt;/a&gt;大象和狮子打架&lt;/h2&gt;&lt;h4 id=&quot;这篇故事主要是教育孩子遇到问题不要回避，勇于面对和解决问题&quot;&gt;&lt;a</summary>
         
       
     
     
+    
+    <category term="故事" scheme="https://niruihu.github.io/categories/%E6%95%85%E4%BA%8B/"/>
     
     
     <category term="幼儿故事集" scheme="https://niruihu.github.io/tags/%E5%B9%BC%E5%84%BF%E6%95%85%E4%BA%8B%E9%9B%86/"/>
