@@ -6,7 +6,7 @@
   <link href="https://niruihu.github.io/atom.xml" rel="self"/>
   
   <link href="https://niruihu.github.io/"/>
-  <updated>2023-04-11T12:38:58.204Z</updated>
+  <updated>2023-04-13T13:01:55.496Z</updated>
   <id>https://niruihu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>代码编辑器的插件</title>
+    <link href="https://niruihu.github.io/2023/04/13/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%8F%92%E4%BB%B6/"/>
+    <id>https://niruihu.github.io/2023/04/13/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%8F%92%E4%BB%B6/</id>
+    <published>2023-04-13T12:42:46.000Z</published>
+    <updated>2023-04-13T13:01:55.496Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;代码编辑器的插件&quot;&gt;&lt;a href=&quot;#代码编辑器的插件&quot; class=&quot;headerlink&quot; title=&quot;代码编辑器的插件&quot;&gt;&lt;/a&gt;代码编辑器的插件&lt;/h2&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://niruihu.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="代码编辑器" scheme="https://niruihu.github.io/tags/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>如何用 Hexo 搭建博客</title>
