@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>太阳把我的眼泪晒干了</title>
+      <link href="/2023/06/02/%E5%A4%AA%E9%98%B3%E6%8A%8A%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E6%99%92%E5%B9%B2%E4%BA%86/"/>
+      <url>/2023/06/02/%E5%A4%AA%E9%98%B3%E6%8A%8A%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E6%99%92%E5%B9%B2%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="太阳把我的眼泪晒干了"><a href="#太阳把我的眼泪晒干了" class="headerlink" title="太阳把我的眼泪晒干了"></a>太阳把我的眼泪晒干了</h2><ul><li>天天和爸爸妈妈吃去玩，不小心摔倒了，疼的哇哇大哭起来。</li><li>爸爸妈妈看到了，就说：天天很勇敢，一点都不疼，不哭了</li><li>天天马上就不哭了，并且说：我不哭了，太阳把我的眼泪晒干了~</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 语录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 萌娃语录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>爸爸，你苦到钱了吗</title>
+      <link href="/2023/06/02/%E7%88%B8%E7%88%B8%EF%BC%8C%E4%BD%A0%E8%8B%A6%E5%88%B0%E9%92%B1%E4%BA%86%E5%90%97/"/>
+      <url>/2023/06/02/%E7%88%B8%E7%88%B8%EF%BC%8C%E4%BD%A0%E8%8B%A6%E5%88%B0%E9%92%B1%E4%BA%86%E5%90%97/</url>
+      
+        <content type="html"><![CDATA[<h2 id="爸爸，你苦到钱了吗？"><a href="#爸爸，你苦到钱了吗？" class="headerlink" title="爸爸，你苦到钱了吗？"></a>爸爸，你苦到钱了吗？</h2><p>天天的爸爸妈妈要去苏州工作了。<br>临走时，跟天天说：天天你在老家乖乖的，爸爸妈妈要去苏州苦钱了。<br>天天说：好的，我乖乖的~</p><p>结果第二天，天天因为吃错了药到医院，爸爸妈妈立马从苏州赶回老家。<br>天天在医院看到爸爸的第一句话：爸爸，你苦到钱了吗？</p><p>爸爸妈妈听完非常难受，不想再和天天分开了，就把天天接到了苏州。</p><p>天天实在是太懂事了~~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 语录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 萌娃语录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代码编辑器的插件</title>
       <link href="/2023/04/13/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%8F%92%E4%BB%B6/"/>
       <url>/2023/04/13/%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%8F%92%E4%BB%B6/</url>
@@ -33,7 +83,7 @@
       <link href="/2023/04/09/%E5%A6%82%E4%BD%95%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/2023/04/09/%E5%A6%82%E4%BD%95%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h2 id="如何用-Hexo-搭建博客"><a href="#如何用-Hexo-搭建博客" class="headerlink" title="如何用 Hexo 搭建博客"></a>如何用 Hexo 搭建博客</h2><p>这篇博客主要记录一下使用 Hexo 搭建此博客的全过程</p><hr><h4 id="搭建本地-Hexo-的环境（部署-Node-js-、-Git-和-HEXO）"><a href="#搭建本地-Hexo-的环境（部署-Node-js-、-Git-和-HEXO）" class="headerlink" title="搭建本地 Hexo 的环境（部署 Node.js 、 Git 和 HEXO）"></a>搭建本地 Hexo 的环境（部署 Node.js 、 Git 和 HEXO）</h4><ul><li>主要看 Hexo 官网的说明：<a href="https://hexo.io/zh-cn/docs/">Hexo 官网和文档</a></li><li>Node.js 的下载：<a href="https://nodejs.org/en">Node.js 官网</a></li><li>Git 下载：<a href="https://git-scm.com/">Git 官网</a></li><li>部署 Hexo (cmd 指令)<pre><code>$ npm install hexo-cli -g$ hexo init blog$ cd blog$ npm install$ hexo server</code></pre><h4 id="选择-Hexo-主题（本博客采用-hexo-theme-matery-主题）"><a href="#选择-Hexo-主题（本博客采用-hexo-theme-matery-主题）" class="headerlink" title="选择 Hexo 主题（本博客采用 hexo-theme-matery 主题）"></a>选择 Hexo 主题（本博客采用 hexo-theme-matery 主题）</h4></li><li>主题下载：<a href="https://github.com/blinkfox/hexo-theme-matery">下载</a></li><li>主题部署：<a href="https://blog.csdn.net/jspnetcn/article/details/104111651">部署</a><h4 id="Markdown-撰写博客"><a href="#Markdown-撰写博客" class="headerlink" title="Markdown 撰写博客"></a>Markdown 撰写博客</h4></li><li>博客的撰写采用 Markdown 语言，可参考教程：<a href="https://www.jianshu.com/p/f3147a804368">教程</a><h4 id="可参考的视频教程"><a href="#可参考的视频教程" class="headerlink" title="可参考的视频教程"></a>可参考的视频教程</h4></li><li><a href="https://www.bilibili.com/video/BV1q741167PJ?p=1&vd_source=e561321a520635302f5e7856747452e2">Hexo搭建个人博客–系列教程</a></li><li><a href="https://www.bilibili.com/video/BV1Rt4y1k7it?p=1&vd_source=e561321a520635302f5e7856747452e2">Hexo搭建个人–博客超简单效果超好</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="如何用-Hexo-搭建博客"><a href="#如何用-Hexo-搭建博客" class="headerlink" title="如何用 Hexo 搭建博客"></a>如何用 Hexo 搭建博客</h2><p>这篇博客主要记录一下使用 Hexo 搭建此博客的全过程</p><hr><h4 id="搭建本地-Hexo-的环境（部署-Node-js-、-Git-和-HEXO）"><a href="#搭建本地-Hexo-的环境（部署-Node-js-、-Git-和-HEXO）" class="headerlink" title="搭建本地 Hexo 的环境（部署 Node.js 、 Git 和 HEXO）"></a>搭建本地 Hexo 的环境（部署 Node.js 、 Git 和 HEXO）</h4><ul><li>主要看 Hexo 官网的说明：<a href="https://hexo.io/zh-cn/docs/">Hexo 官网和文档</a></li><li>Node.js 的下载：<a href="https://nodejs.org/en">Node.js 官网</a></li><li>Git 下载：<a href="https://git-scm.com/">Git 官网</a></li><li>部署 Hexo (cmd 指令)<pre><code>$ npm install hexo-cli -g$ hexo init blog$ cd blog$ npm install$ hexo server</code></pre><h4 id="选择-Hexo-主题（本博客采用-hexo-theme-matery-主题）"><a href="#选择-Hexo-主题（本博客采用-hexo-theme-matery-主题）" class="headerlink" title="选择 Hexo 主题（本博客采用 hexo-theme-matery 主题）"></a>选择 Hexo 主题（本博客采用 hexo-theme-matery 主题）</h4></li><li>主题下载：<a href="https://github.com/blinkfox/hexo-theme-matery">下载</a></li><li>主题部署：<a href="https://blog.csdn.net/jspnetcn/article/details/104111651">部署</a><h4 id="Markdown-撰写博客"><a href="#Markdown-撰写博客" class="headerlink" title="Markdown 撰写博客"></a>Markdown 撰写博客</h4></li><li>博客的撰写采用 Markdown 语言，可参考教程：<a href="https://www.jianshu.com/p/f3147a804368">教程</a><h4 id="Hexo-博客发布"><a href="#Hexo-博客发布" class="headerlink" title="Hexo 博客发布"></a>Hexo 博客发布</h4><pre><code>hexo new &quot;我的第一篇文章&quot;hexo clean 清除缓存 ,网页正常情况下可以忽略此条命令,执行该指令后,会删掉站点根目录下的public文件夹hexo g 生成静态网页hexo s 启动本地服务器，用于预览主题hexo d 自动生成网站静态文件，并将本地数据部署到设定的仓库(比如 github)</code></pre><h4 id="可参考的视频教程"><a href="#可参考的视频教程" class="headerlink" title="可参考的视频教程"></a>可参考的视频教程</h4></li><li><a href="https://www.bilibili.com/video/BV1q741167PJ?p=1&vd_source=e561321a520635302f5e7856747452e2">Hexo搭建个人博客–系列教程</a></li><li><a href="https://www.bilibili.com/video/BV1Rt4y1k7it?p=1&vd_source=e561321a520635302f5e7856747452e2">Hexo搭建个人–博客超简单效果超好</a></li></ul>]]></content>
       
       
       <categories>
